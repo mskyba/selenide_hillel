@@ -1,9 +1,6 @@
 import com.codeborne.selenide.Condition;
 import org.openqa.selenium.By;
-import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
-
-import java.util.Collections;
 
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Condition.value;
